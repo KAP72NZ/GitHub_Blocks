@@ -1,0 +1,35 @@
+.container {
+    width: 1000px;
+    height: 800px;
+    background-color: silver;
+    margin: 0px auto;
+    border-top-style: solid;
+    
+}
+h1 {
+    font-size: 40px; 
+    text-align: center; 
+    margin: 2px;
+}
+.col {
+    background-color: blue;
+    display: flex;
+    justify-content: space-around; 
+    padding: 1%;  
+    margin: 20px;
+   
+}
+.col1 {
+    background-color: rgb(177, 105, 143);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1%;
+    margin: 20px;
+}
+.col2 {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 1%;
+    margin: 20px;
+}
